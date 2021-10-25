@@ -1,4 +1,6 @@
-const Header = ({date , logo }) => {
+import "./css/Header.css"
+
+const Header = ({ date, logo }) => {
     return (<div className="header">
         <p>{date}</p>
         <img src={logo} alt="" />
