@@ -1,0 +1,11 @@
+.header > img {
+  /* position: absolute; */
+  width: 50px;
+  height: 50px;
+  float: right;
+  margin-top: -40px;
+}
+
+.header > p {
+  /* position: absolute; */
+}

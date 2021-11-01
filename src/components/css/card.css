@@ -1,0 +1,13 @@
+.card {
+  height: 210px;
+  margin: 0 2% 0 2%;
+  padding: 20px;
+  margin-top: 20px;
+}
+button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+}
