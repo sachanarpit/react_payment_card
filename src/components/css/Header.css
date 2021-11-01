@@ -4,6 +4,7 @@
   height: 50px;
   float: right;
   margin-top: -40px;
+  cursor: pointer;
 }
 
 .header > p {
